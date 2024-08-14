@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: inventory-app
-        image: dafik15/aws-inventory-project-app:19
+        image: dafik15/aws-inventory-project-app-14-aug:7
         ports:
         - containerPort: 8080
